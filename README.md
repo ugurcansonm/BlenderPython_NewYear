@@ -12,9 +12,9 @@ A Python-scripted 3D physics animation built entirely within Blender via the `bp
 * **Automated Rendering Pipeline:** Programmatically configures camera focal tracking, cycles/eevee engine parameters, output resolution, and frame ranges before executing a batch render.
 
 ---
+<img width="800" height="450" alt="Blender1A" src="https://github.com/user-attachments/assets/e7fc5935-a66b-467f-8f0c-1879554b873f" />
 
 ## 🛠️ Project Structure
-
 To mirror professional standards, arrange your repository files as follows:
 
 ```text
